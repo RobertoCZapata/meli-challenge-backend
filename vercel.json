@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "meli-api",
+  "name": "mercadolibre-api",
   "builds": [
     {
       "src": "index.js",
